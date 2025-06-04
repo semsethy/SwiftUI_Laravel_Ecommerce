@@ -42,13 +42,21 @@ A simple full-stack ecommerce application using **SwiftUI** for the iOS frontend
 ### Laravel Backend:
 
 ## Install dependencies
+```bash
 composer install
 cp .env.example .env
 php artisan key:generate
+```
 
 ##Run migrations
+```bash
 php artisan migrate
 php artisan db:seed
+```
 
 ##Serve the backend
+```bash
 php artisan serve
+```
+
+
