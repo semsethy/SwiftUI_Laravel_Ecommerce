@@ -12,7 +12,7 @@ A simple full-stack ecommerce application using **SwiftUI** for the iOS frontend
 
 ## 🔙 Backend Features (Laravel)
 
-- RESTful API with Laravel 10
+- RESTful API with Laravel 12
 - User registration & authentication (API tokens)
 - Product listing and detail endpoints
 - CORS enabled for frontend access
@@ -20,15 +20,16 @@ A simple full-stack ecommerce application using **SwiftUI** for the iOS frontend
 ## 🛠️ Tech Stack
 
 ### iOS Frontend:
-- Swift 5
+- Swift
 - SwiftUI
 - Combine
 - URLSession for API calls
 
 ### Backend:
-- Laravel 10
-- MySQL (or SQLite)
-- Sanctum (for API auth)
+- Laravel 12
+- PHP
+- MySQL
+- JWT
 
 ## 📦 Installation
 
