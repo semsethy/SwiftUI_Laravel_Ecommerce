@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_man-is-touching-multiple-high-tech-screens_4689204.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
