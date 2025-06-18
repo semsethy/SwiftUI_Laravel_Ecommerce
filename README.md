@@ -48,6 +48,3 @@ nil
 
 ### Configuration:
 Update the base URL in your networking class to match your Laravel API base endpoint.
-
-## 📂 Folder Structure
-
